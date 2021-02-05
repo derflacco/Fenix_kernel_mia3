@@ -1,5 +1,6 @@
 # Fenix_kernel_mia3
 Fenix kernel for xiaomi mi a3
+
                    ▄              ▄
                   ▌▒█           ▄▀▒▌
                   ▌▒▒█        ▄▀▒▒▒▐
@@ -19,5 +20,6 @@ Fenix kernel for xiaomi mi a3
               ▀▄▒▒▒▒▒▒▒▒▒▒▄▄▄▀▒▒▒▒▄▀
                 ▀▄▄▄▄▄▄▀▀▀▒▒▒▒▒▄▄▀
                    ▒▒▒▒▒▒▒▒▒▒▀▀
+                   
                    
                   Be a good boi!
